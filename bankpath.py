@@ -1,3 +1,9 @@
+'''
+This script;
+    a) Creates a tree structure
+    b) Returns the path between two nodes in a tree
+'''
+
 tree = {}
 
 def addNodeToTree(node):
